@@ -5,12 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: DTK Class Helper
     url: https://dtk-class.vercel.app
+    icon: https://dtk-class.vercel.app/favicon.ico
   - name: Link Shortener
     url: https://lr-link.vercel.app
+    icon: https://lr-link.vercel.app/favicon.ico
   - name: Pesan Awanama
     url: https://lr-anon.vercel.app
+    icon: https://lr-anon.vercel.app/favicon.ico
   - name: Ronz Amogus Bot Documentation
     url: https://ronz-amogus.vercel.app
+    icon: https://ronz-amogus.vercel.app/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - LordRonz
@@ -20,16 +24,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/LordRonz/LordRonz.github.io/main/public/logo192.png
   name: LordRonz status website
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: night
+    - title: Creator
+      href: https://lr-link.vercel.app/
+  themeUrl: /custom.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
