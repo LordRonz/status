@@ -5,6 +5,9 @@ repo: status # The name of this repository
 sites:
   - name: Pog Bot
     url: $BOT_PING_URL
+  - name: Ronz AMOGUS Bot
+    url: $RONZAMOGUS_BOT_URL
+    icon: https://ronz-amogus.vercel.app/favicon.ico
   - name: DTK Class Helper
     url: https://dtk-class.vercel.app
     icon: https://dtk-class.vercel.app/favicon.ico
@@ -35,7 +38,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Creator
       href: https://lr-link.vercel.app/
-  themeUrl: https:/lordronz.github.io/status/custom.css
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
