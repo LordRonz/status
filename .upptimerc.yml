@@ -38,6 +38,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Creator
       href: https://lr-link.vercel.app/
+  favicon: https://raw.githubusercontent.com/LordRonz/LordRonz.github.io/main/public/favicon.ico
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
