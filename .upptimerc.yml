@@ -9,6 +9,11 @@ sites:
     url: https://lr-link.vercel.app
   - name: Pesan Awanama
     url: https://lr-anon.vercel.app
+  - name: Ronz Amogus Bot Documentation
+    url: https://ronz-amogus.vercel.app
+
+assignees: # Users to assign downtime issues (optional)
+  - LordRonz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +29,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
