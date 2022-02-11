@@ -33,7 +33,7 @@ status-website:
   name: LordRonz status website
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Creator
