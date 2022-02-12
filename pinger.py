@@ -14,7 +14,7 @@ async def fetch_all(urls: list[str]):
     return results
 
 def main():
-  url_list = getenv('URLS', '').split(',')
+  url_list = getenv('PING_URLS', '').split(',')
   urls = [a for a in url_list if a]
   htmls = asyncio.run(fetch_all(urls))
   print(f'Pinged {len(urls)} url{"s" if len(urls) > 1 else "" }!')
