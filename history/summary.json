@@ -4,9 +4,9 @@
     "url": "$BOT_PING_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2022-02-18": 0,
       "2022-02-11": 18
     }
   },
@@ -24,9 +25,9 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 290,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "DTK Class Helper",
@@ -97,18 +100,17 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "94.15%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "94.15%",
+    "uptime": "94.26%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "94.26%",
     "time": 98,
-    "timeDay": 200,
+    "timeDay": 210,
     "timeWeek": 95,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-02-18": 9,
       "2022-02-17": 136,
       "2022-02-16": 39,
       "2022-02-15": 98,
