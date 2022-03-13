@@ -37,11 +37,11 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "94.64%",
     "uptimeWeek": "96.05%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "97.67%",
+    "uptimeYear": "97.68%",
     "time": 2083,
     "timeDay": 2436,
     "timeWeek": 3943,
@@ -128,18 +128,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "95.12%",
+    "uptime": "95.11%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.11%",
     "time": 117,
     "timeDay": 54,
     "timeWeek": 57,
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2022-03-12": 65,
+      "2022-03-12": 54,
       "2022-03-11": 116,
       "2022-03-10": 80,
       "2022-03-09": 78,
@@ -168,7 +168,7 @@
       "2022-02-14": 50,
       "2022-02-13": 110,
       "2022-02-12": 123,
-      "2022-02-11": 26
+      "2022-02-11": 43
     }
   }
 ]
