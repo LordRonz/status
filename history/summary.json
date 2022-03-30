@@ -8,12 +8,12 @@
     "uptime": "95.78%",
     "uptimeDay": "84.35%",
     "uptimeWeek": "83.17%",
-    "uptimeMonth": "94.61%",
+    "uptimeMonth": "93.73%",
     "uptimeYear": "95.78%",
     "time": 2676,
     "timeDay": 6798,
     "timeWeek": 4466,
-    "timeMonth": 3216,
+    "timeMonth": 3148,
     "timeYear": 2676,
     "dailyMinutesDown": {
       "2022-03-29": 225,
@@ -49,18 +49,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "95.42%",
-    "uptimeDay": "82.79%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "95.42%",
+    "uptime": "95.44%",
+    "uptimeDay": "83.32%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "95.44%",
     "time": 2344,
     "timeDay": 2533,
     "timeWeek": 3000,
-    "timeMonth": 2690,
+    "timeMonth": 2616,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2022-03-29": 250,
+      "2022-03-29": 242,
       "2022-03-28": 370,
       "2022-03-27": 371,
       "2022-03-26": 141,
@@ -104,7 +104,7 @@
     "time": 98,
     "timeDay": 32,
     "timeWeek": 106,
-    "timeMonth": 89,
+    "timeMonth": 88,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2022-03-02": 16
@@ -124,7 +124,7 @@
     "time": 1434,
     "timeDay": 1323,
     "timeWeek": 1334,
-    "timeMonth": 1390,
+    "timeMonth": 1382,
     "timeYear": 1434,
     "dailyMinutesDown": {}
   },
@@ -142,7 +142,7 @@
     "time": 204,
     "timeDay": 29,
     "timeWeek": 52,
-    "timeMonth": 321,
+    "timeMonth": 312,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2022-03-01": 17
@@ -154,18 +154,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "92.93%",
-    "uptimeWeek": "89.68%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "96.03%",
+    "uptime": "96.01%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "89.75%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "96.01%",
     "time": 100,
     "timeDay": 64,
     "timeWeek": 71,
-    "timeMonth": 63,
+    "timeMonth": 64,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-03-29": 102,
+      "2022-03-29": 95,
       "2022-03-28": 69,
       "2022-03-27": 436,
       "2022-03-26": 132,
@@ -193,7 +193,7 @@
       "2022-03-04": 108,
       "2022-03-03": 76,
       "2022-03-02": 74,
-      "2022-03-01": 33
+      "2022-03-01": 57
     }
   }
 ]
