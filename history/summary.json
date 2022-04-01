@@ -6,9 +6,9 @@
     "slug": "pog-bot",
     "status": "up",
     "uptime": "95.55%",
-    "uptimeDay": "90.68%",
+    "uptimeDay": "94.88%",
     "uptimeWeek": "80.50%",
-    "uptimeMonth": "93.96%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "95.55%",
     "time": 2755,
     "timeDay": 3898,
@@ -52,7 +52,7 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "94.92%",
-    "uptimeDay": "81.38%",
+    "uptimeDay": "85.57%",
     "uptimeWeek": "82.89%",
     "uptimeMonth": "92.95%",
     "uptimeYear": "94.92%",
@@ -159,9 +159,9 @@
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "96.13%",
     "time": 110,
     "timeDay": 742,
@@ -169,7 +169,7 @@
     "timeMonth": 82,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2022-03-31": 71,
+      "2022-03-31": 64,
       "2022-03-30": 41,
       "2022-03-29": 95,
       "2022-03-28": 69,
@@ -198,7 +198,7 @@
       "2022-03-05": 81,
       "2022-03-04": 108,
       "2022-03-03": 76,
-      "2022-03-02": 40
+      "2022-03-02": 56
     }
   }
 ]
