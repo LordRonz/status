@@ -1,7 +1,7 @@
 url: $BOT_PING_URL
-status: up
-code: 200
-responseTime: 5181
-lastUpdated: 2022-04-01T08:55:51.367Z
+status: down
+code: 404
+responseTime: 25209
+lastUpdated: 2022-04-01T09:57:21.758Z
 startTime: Thu Feb 10 2022 09:01:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
