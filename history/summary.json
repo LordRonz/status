@@ -13,7 +13,7 @@
     "time": 3021,
     "timeDay": 6011,
     "timeWeek": 4867,
-    "timeMonth": 3499,
+    "timeMonth": 3519,
     "timeYear": 3021,
     "dailyMinutesDown": {
       "2022-04-02": 145,
@@ -52,16 +52,16 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "94.61%",
-    "uptimeDay": "89.15%",
-    "uptimeWeek": "81.64%",
+    "uptimeDay": "89.12%",
+    "uptimeWeek": "81.63%",
     "uptimeMonth": "92.23%",
     "uptimeYear": "94.61%",
     "time": 2448,
     "timeDay": 3743,
-    "timeWeek": 3158,
-    "timeMonth": 2785,
+    "timeWeek": 3181,
+    "timeMonth": 2813,
     "timeYear": 2448,
     "dailyMinutesDown": {
       "2022-04-02": 156,
@@ -111,7 +111,7 @@
     "uptimeYear": "99.98%",
     "time": 98,
     "timeDay": 111,
-    "timeWeek": 85,
+    "timeWeek": 82,
     "timeMonth": 90,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 1437,
     "timeDay": 1614,
-    "timeWeek": 1380,
+    "timeWeek": 1393,
     "timeMonth": 1399,
     "timeYear": 1437,
     "dailyMinutesDown": {}
@@ -150,7 +150,7 @@
     "time": 197,
     "timeDay": 78,
     "timeWeek": 52,
-    "timeMonth": 146,
+    "timeMonth": 148,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2022-03-01": 17
@@ -162,18 +162,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "96.29%",
-    "uptimeDay": "93.40%",
-    "uptimeWeek": "91.36%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "96.29%",
+    "uptime": "96.27%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "96.27%",
     "time": 108,
     "timeDay": 59,
-    "timeWeek": 146,
+    "timeWeek": 148,
     "timeMonth": 81,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2022-04-02": 95,
+      "2022-04-02": 88,
       "2022-04-01": 69,
       "2022-03-31": 64,
       "2022-03-30": 41,
@@ -202,7 +202,7 @@
       "2022-03-07": 120,
       "2022-03-06": 20,
       "2022-03-05": 81,
-      "2022-03-04": 57
+      "2022-03-04": 83
     }
   }
 ]
