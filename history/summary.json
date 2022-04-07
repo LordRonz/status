@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "88.66%",
     "uptimeWeek": "94.31%",
     "uptimeMonth": "93.42%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.40%",
     "time": 2922,
     "timeDay": 404,
     "timeWeek": 4052,
@@ -167,12 +167,12 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "96.38%",
-    "uptimeDay": "89.97%",
+    "status": "down",
+    "uptime": "96.40%",
+    "uptimeDay": "89.96%",
     "uptimeWeek": "93.64%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "96.38%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "96.40%",
     "time": 106,
     "timeDay": 85,
     "timeWeek": 154,
@@ -209,8 +209,7 @@
       "2022-03-11": 116,
       "2022-03-10": 80,
       "2022-03-09": 78,
-      "2022-03-08": 31,
-      "2022-03-07": 15
+      "2022-03-08": 31
     }
   }
 ]
