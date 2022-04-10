@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "95.58%",
+    "uptime": "95.60%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "95.60%",
     "time": 2862,
     "timeDay": 497,
     "timeWeek": 1583,
     "timeMonth": 3380,
     "timeYear": 2862,
     "dailyMinutesDown": {
-      "2022-04-10": 14,
       "2022-04-09": 16,
       "2022-04-08": 32,
       "2022-04-07": 120,
@@ -61,9 +60,9 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "94.19%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "90.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "90.58%",
     "uptimeYear": "94.19%",
     "time": 2543,
     "timeDay": 308,
@@ -71,7 +70,6 @@
     "timeMonth": 2834,
     "timeYear": 2543,
     "dailyMinutesDown": {
-      "2022-04-10": 14,
       "2022-04-09": 17,
       "2022-04-08": 32,
       "2022-04-06": 568,
@@ -106,7 +104,7 @@
       "2022-02-28": 250,
       "2022-02-27": 72,
       "2022-02-26": 79,
-      "2022-02-25": 32
+      "2022-02-25": 56
     }
   },
   {
@@ -172,14 +170,14 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "97.26%",
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "95.52%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "96.56%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "96.60%",
     "time": 106,
-    "timeDay": 72,
+    "timeDay": 40,
     "timeWeek": 97,
     "timeMonth": 89,
     "timeYear": 106,
@@ -215,8 +213,7 @@
       "2022-03-13": 211,
       "2022-03-12": 54,
       "2022-03-11": 116,
-      "2022-03-10": 80,
-      "2022-03-09": 24
+      "2022-03-10": 80
     }
   }
 ]
