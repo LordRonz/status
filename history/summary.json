@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "95.72%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "95.72%",
+    "uptime": "95.75%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "95.75%",
     "time": 2924,
     "timeDay": 13700,
     "timeWeek": 3213,
     "timeMonth": 3441,
     "timeYear": 2924,
     "dailyMinutesDown": {
-      "2022-04-15": 42,
+      "2022-04-15": 33,
       "2022-04-12": 105,
       "2022-04-11": 44,
       "2022-04-09": 16,
@@ -63,9 +63,9 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "94.66%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "90.64%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "90.66%",
     "uptimeYear": "94.66%",
     "time": 2575,
     "timeDay": 3070,
@@ -73,7 +73,7 @@
     "timeMonth": 2930,
     "timeYear": 2575,
     "dailyMinutesDown": {
-      "2022-04-15": 42,
+      "2022-04-15": 33,
       "2022-04-12": 27,
       "2022-04-11": 30,
       "2022-04-09": 17,
@@ -108,7 +108,8 @@
       "2022-03-05": 27,
       "2022-03-02": 57,
       "2022-02-28": 250,
-      "2022-02-27": 72
+      "2022-02-27": 72,
+      "2022-02-26": 22
     }
   },
   {
@@ -174,15 +175,15 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "96.46%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "96.53%",
     "time": 103,
-    "timeDay": 80,
-    "timeWeek": 63,
+    "timeDay": 104,
+    "timeWeek": 64,
     "timeMonth": 91,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -219,7 +220,7 @@
       "2022-03-16": 56,
       "2022-03-15": 96,
       "2022-03-14": 59,
-      "2022-03-13": 211
+      "2022-03-13": 155
     }
   }
 ]
