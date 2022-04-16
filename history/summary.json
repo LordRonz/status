@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "95.76%",
+    "uptime": "95.77%",
     "uptimeDay": "96.87%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "93.34%",
-    "uptimeYear": "95.76%",
+    "uptimeYear": "95.77%",
     "time": 2872,
     "timeDay": 816,
     "timeWeek": 2632,
@@ -63,18 +63,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "94.79%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "94.79%",
+    "uptime": "94.75%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "94.75%",
     "time": 2608,
     "timeDay": 5560,
     "timeWeek": 3282,
     "timeMonth": 3008,
     "timeYear": 2608,
     "dailyMinutesDown": {
-      "2022-04-16": 25,
+      "2022-04-16": 18,
       "2022-04-15": 33,
       "2022-04-12": 27,
       "2022-04-11": 30,
@@ -110,7 +110,7 @@
       "2022-03-05": 27,
       "2022-03-02": 57,
       "2022-02-28": 250,
-      "2022-02-27": 33
+      "2022-02-27": 72
     }
   },
   {
@@ -156,9 +156,9 @@
     "url": "https://lr-anon.vercel.app",
     "icon": "https://lr-anon.vercel.app/favicon.ico",
     "slug": "pesan-awanama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -168,6 +168,7 @@
     "timeMonth": 112,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-03-01": 17
     }
   },
