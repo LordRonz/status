@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "95.75%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "93.31%",
-    "uptimeYear": "95.78%",
+    "uptimeYear": "95.79%",
     "time": 2857,
-    "timeDay": 919,
+    "timeDay": 1096,
     "timeWeek": 2683,
-    "timeMonth": 3360,
+    "timeMonth": 3345,
     "timeYear": 2857,
     "dailyMinutesDown": {
       "2022-04-17": 16,
@@ -65,17 +65,17 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "94.74%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "90.56%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "90.59%",
     "uptimeYear": "94.74%",
     "time": 2585,
     "timeDay": 3523,
     "timeWeek": 3008,
-    "timeMonth": 3011,
+    "timeMonth": 3012,
     "timeYear": 2585,
     "dailyMinutesDown": {
-      "2022-04-17": 104,
+      "2022-04-17": 96,
       "2022-04-16": 18,
       "2022-04-15": 33,
       "2022-04-12": 27,
@@ -112,7 +112,7 @@
       "2022-03-05": 27,
       "2022-03-02": 57,
       "2022-02-28": 250,
-      "2022-02-27": 17
+      "2022-02-27": 33
     }
   },
   {
@@ -178,15 +178,15 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "96.61%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "96.64%",
     "time": 102,
     "timeDay": 56,
-    "timeWeek": 60,
+    "timeWeek": 61,
     "timeMonth": 90,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -224,7 +224,7 @@
       "2022-03-17": 60,
       "2022-03-16": 56,
       "2022-03-15": 96,
-      "2022-03-14": 35
+      "2022-03-14": 16
     }
   }
 ]
