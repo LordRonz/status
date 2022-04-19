@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "95.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "95.92%",
     "time": 2831,
     "timeDay": 113,
-    "timeWeek": 2989,
+    "timeWeek": 3138,
     "timeMonth": 3418,
     "timeYear": 2831,
     "dailyMinutesDown": {
@@ -63,18 +63,19 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
-    "uptime": "94.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
+    "status": "down",
+    "uptime": "94.92%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "90.81%",
-    "uptimeYear": "94.90%",
+    "uptimeYear": "94.92%",
     "time": 2564,
     "timeDay": 162,
-    "timeWeek": 1922,
+    "timeWeek": 2008,
     "timeMonth": 2960,
     "timeYear": 2564,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-04-17": 123,
       "2022-04-16": 18,
       "2022-04-15": 33,
@@ -111,8 +112,7 @@
       "2022-03-06": 22,
       "2022-03-05": 27,
       "2022-03-02": 57,
-      "2022-02-28": 250,
-      "2022-02-27": 17
+      "2022-02-28": 250
     }
   },
   {
@@ -179,18 +179,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "90.14%",
-    "uptimeMonth": "92.79%",
-    "uptimeYear": "96.69%",
+    "uptime": "96.68%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "96.68%",
     "time": 118,
-    "timeDay": 966,
+    "timeDay": 1059,
     "timeWeek": 223,
     "timeMonth": 130,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2022-04-19": 119,
+      "2022-04-19": 111,
       "2022-04-18": 111,
       "2022-04-17": 64,
       "2022-04-16": 146,
@@ -222,7 +222,8 @@
       "2022-03-21": 86,
       "2022-03-20": 46,
       "2022-03-19": 82,
-      "2022-03-18": 42
+      "2022-03-18": 42,
+      "2022-03-17": 21
     }
   }
 ]
