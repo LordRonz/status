@@ -8,12 +8,12 @@
     "uptime": "95.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.33%",
-    "uptimeMonth": "93.29%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "95.98%",
     "time": 2791,
     "timeDay": 206,
     "timeWeek": 1337,
-    "timeMonth": 3409,
+    "timeMonth": 3429,
     "timeYear": 2791,
     "dailyMinutesDown": {
       "2022-04-20": 107,
@@ -65,15 +65,15 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.61%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "95.20%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "95.21%",
     "time": 2652,
     "timeDay": 122,
     "timeWeek": 4255,
-    "timeMonth": 3258,
+    "timeMonth": 3259,
     "timeYear": 2652,
     "dailyMinutesDown": {
       "2022-04-21": 64,
@@ -161,9 +161,9 @@
     "slug": "pesan-awanama",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 242,
     "timeDay": 2552,
@@ -171,7 +171,6 @@
     "timeMonth": 268,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-04-22": 8,
       "2022-03-01": 17
     }
   },
@@ -180,15 +179,15 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "96.72%",
-    "uptimeDay": "94.21%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "94.20%",
     "uptimeWeek": "91.52%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "96.72%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "96.76%",
     "time": 117,
     "timeDay": 50,
-    "timeWeek": 246,
+    "timeWeek": 249,
     "timeMonth": 135,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -223,7 +222,7 @@
       "2022-03-25": 92,
       "2022-03-24": 89,
       "2022-03-23": 120,
-      "2022-03-22": 49
+      "2022-03-22": 16
     }
   }
 ]
