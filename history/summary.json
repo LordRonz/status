@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "93.29%",
-    "uptimeYear": "96.03%",
+    "uptimeYear": "96.04%",
     "time": 2795,
     "timeDay": 3151,
     "timeWeek": 1360,
@@ -160,9 +160,9 @@
     "url": "https://lr-anon.vercel.app",
     "icon": "https://lr-anon.vercel.app/favicon.ico",
     "slug": "pesan-awanama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.42%",
+    "uptimeDay": "96.40%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
@@ -183,9 +183,9 @@
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "92.17%",
+    "uptimeMonth": "92.35%",
     "uptimeYear": "96.77%",
     "time": 132,
     "timeDay": 631,
@@ -193,7 +193,7 @@
     "timeMonth": 173,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-04-23": 81,
+      "2022-04-23": 67,
       "2022-04-22": 79,
       "2022-04-21": 120,
       "2022-04-20": 193,
@@ -224,7 +224,7 @@
       "2022-03-26": 132,
       "2022-03-25": 92,
       "2022-03-24": 89,
-      "2022-03-23": 63
+      "2022-03-23": 79
     }
   }
 ]
