@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "96.15%",
+    "uptime": "96.17%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "96.17%",
     "time": 2971,
     "timeDay": 5477,
     "timeWeek": 4974,
-    "timeMonth": 2960,
+    "timeMonth": 2856,
     "timeYear": 2971,
     "dailyMinutesDown": {
-      "2022-05-01": 30,
+      "2022-05-01": 19,
       "2022-04-30": 76,
       "2022-04-27": 118,
       "2022-04-26": 104,
@@ -78,7 +78,7 @@
     "time": 2541,
     "timeDay": 483,
     "timeWeek": 1528,
-    "timeMonth": 2869,
+    "timeMonth": 2745,
     "timeYear": 2541,
     "dailyMinutesDown": {
       "2022-05-01": 20,
@@ -133,7 +133,7 @@
     "time": 143,
     "timeDay": 26,
     "timeWeek": 89,
-    "timeMonth": 231,
+    "timeMonth": 235,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-03-02": 16
@@ -153,7 +153,7 @@
     "time": 1471,
     "timeDay": 1430,
     "timeWeek": 1544,
-    "timeMonth": 1540,
+    "timeMonth": 1538,
     "timeYear": 1471,
     "dailyMinutesDown": {}
   },
@@ -171,7 +171,7 @@
     "time": 217,
     "timeDay": 23,
     "timeWeek": 53,
-    "timeMonth": 247,
+    "timeMonth": 252,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-04-23": 52,
@@ -183,12 +183,12 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "92.45%",
+    "status": "down",
+    "uptime": "95.90%",
+    "uptimeDay": "92.44%",
     "uptimeWeek": "61.05%",
-    "uptimeMonth": "89.09%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "95.90%",
     "time": 138,
     "timeDay": 66,
     "timeWeek": 84,
@@ -209,8 +209,7 @@
       "2022-04-20": 193,
       "2022-04-19": 159,
       "2022-04-18": 111,
-      "2022-04-17": 64,
-      "2022-04-16": 16
+      "2022-04-17": 64
     }
   }
 ]
