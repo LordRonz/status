@@ -76,7 +76,7 @@
     "slug": "ronz-amogus-bot",
     "status": "down",
     "uptime": "96.35%",
-    "uptimeDay": "63.34%",
+    "uptimeDay": "63.27%",
     "uptimeWeek": "91.66%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "96.35%",
@@ -86,7 +86,7 @@
     "timeMonth": 2187,
     "timeYear": 2483,
     "dailyMinutesDown": {
-      "2022-05-19": 0,
+      "2022-05-19": 1,
       "2022-05-18": 529,
       "2022-05-17": 23,
       "2022-05-16": 96,
