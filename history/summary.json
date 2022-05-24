@@ -77,14 +77,14 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "95.92%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "90.48%",
     "uptimeMonth": "95.52%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.58%",
     "time": 2536,
-    "timeDay": 404,
+    "timeDay": 336,
     "timeWeek": 3004,
     "timeMonth": 2233,
     "timeYear": 2536,
@@ -128,7 +128,7 @@
       "2022-03-30": 234,
       "2022-03-29": 242,
       "2022-03-28": 370,
-      "2022-03-27": 189
+      "2022-03-27": 172
     }
   },
   {
@@ -199,12 +199,12 @@
     "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.02%",
+    "uptimeMonth": "90.06%",
     "uptimeYear": "96.71%",
     "time": 135,
     "timeDay": 34,
     "timeWeek": 87,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2022-05-03": 279,
