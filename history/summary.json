@@ -4,12 +4,12 @@
     "url": "$BOT_PING_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pog-bot",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "95.64%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "95.63%",
     "uptimeMonth": "96.58%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 2345,
     "timeDay": 608,
     "timeWeek": 1920,
@@ -78,8 +78,7 @@
       "2022-04-26": 104,
       "2022-04-23": 19,
       "2022-04-20": 107,
-      "2022-04-17": 16,
-      "2022-04-16": 18
+      "2022-04-17": 16
     }
   },
   {
@@ -90,7 +89,7 @@
     "status": "up",
     "uptime": "98.45%",
     "uptimeDay": "84.15%",
-    "uptimeWeek": "86.90%",
+    "uptimeWeek": "87.09%",
     "uptimeMonth": "90.99%",
     "uptimeYear": "98.45%",
     "time": 2057,
