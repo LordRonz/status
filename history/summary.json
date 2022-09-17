@@ -85,12 +85,12 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "91.53%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "91.52%",
     "uptimeWeek": "90.13%",
     "uptimeMonth": "90.33%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.60%",
     "time": 2057,
     "timeDay": 394,
     "timeWeek": 1748,
@@ -124,8 +124,7 @@
       "2022-08-17": 48,
       "2022-08-08": 26,
       "2022-08-04": 31,
-      "2022-08-02": 89,
-      "2022-07-30": 27
+      "2022-08-02": 89
     }
   },
   {
