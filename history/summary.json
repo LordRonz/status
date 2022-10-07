@@ -8,12 +8,12 @@
     "uptime": "98.99%",
     "uptimeDay": "97.25%",
     "uptimeWeek": "97.13%",
-    "uptimeMonth": "96.62%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "98.99%",
     "time": 2283,
     "timeDay": 355,
     "timeWeek": 760,
-    "timeMonth": 1762,
+    "timeMonth": 1773,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2022-10-06": 54,
@@ -79,16 +79,16 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "86.63%",
+    "uptimeWeek": "87.38%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "98.94%",
     "time": 1884,
     "timeDay": 469,
-    "timeWeek": 443,
-    "timeMonth": 1136,
+    "timeWeek": 447,
+    "timeMonth": 1141,
     "timeYear": 1884,
     "dailyMinutesDown": {
       "2022-10-07": 131,
@@ -114,7 +114,7 @@
       "2022-09-16": 105,
       "2022-09-14": 149,
       "2022-09-13": 213,
-      "2022-09-12": 260
+      "2022-09-12": 245
     }
   },
   {
