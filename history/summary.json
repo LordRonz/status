@@ -68,11 +68,11 @@
     "url": "$RONZAMOGUS_BOT_URL",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "80.46%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "89.31%",
+    "uptimeDay": "80.45%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "89.38%",
     "uptimeYear": "98.75%",
     "time": 1777,
     "timeDay": 1062,
@@ -96,7 +96,7 @@
       "2022-10-14": 108,
       "2022-10-13": 225,
       "2022-10-12": 243,
-      "2022-10-11": 101
+      "2022-10-11": 71
     }
   },
   {
