@@ -4,9 +4,9 @@
     "url": "$BOT_PING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "97.57%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.18%",
@@ -16,6 +16,7 @@
     "timeMonth": 2765,
     "timeYear": 2381,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-11-16": 35,
       "2022-11-15": 103,
       "2022-11-14": 29,
@@ -68,7 +69,7 @@
       "2022-09-12": 101,
       "2022-09-11": 23,
       "2022-09-10": 85,
-      "2022-09-09": 24
+      "2022-09-09": 3
     }
   },
   {
@@ -78,9 +79,9 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "92.17%",
     "uptimeYear": "99.15%",
     "time": 1721,
     "timeDay": 2370,
@@ -88,7 +89,6 @@
     "timeMonth": 1241,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2022-11-17": 10,
       "2022-11-16": 97,
       "2022-11-15": 71,
       "2022-11-14": 90,
@@ -111,7 +111,7 @@
       "2022-10-27": 277,
       "2022-10-26": 269,
       "2022-10-25": 235,
-      "2022-10-24": 150
+      "2022-10-24": 178
     }
   },
   {
