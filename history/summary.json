@@ -4,14 +4,14 @@
     "url": "$BOT_PING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "88.04%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "89.13%",
     "uptimeWeek": "95.71%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "99.25%",
     "time": 2420,
-    "timeDay": 2277,
+    "timeDay": 2433,
     "timeWeek": 2848,
     "timeMonth": 3045,
     "timeYear": 2420,
@@ -66,7 +66,7 @@
       "2022-09-22": 21,
       "2022-09-21": 25,
       "2022-09-20": 140,
-      "2022-09-19": 63
+      "2022-09-19": 26
     }
   },
   {
@@ -81,7 +81,7 @@
     "uptimeMonth": "93.60%",
     "uptimeYear": "99.32%",
     "time": 1688,
-    "timeDay": 386,
+    "timeDay": 378,
     "timeWeek": 1240,
     "timeMonth": 1205,
     "timeYear": 1688,
