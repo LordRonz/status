@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "92.74%",
-    "uptimeWeek": "95.97%",
+    "uptimeWeek": "96.50%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.22%",
     "time": 2442,
     "timeDay": 3609,
-    "timeWeek": 3246,
-    "timeMonth": 3435,
+    "timeWeek": 3319,
+    "timeMonth": 3216,
     "timeYear": 2442,
     "dailyMinutesDown": {
       "2022-11-21": 104,
@@ -76,18 +76,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "91.35%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.28%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "99.28%",
     "time": 1700,
     "timeDay": 672,
     "timeWeek": 1365,
-    "timeMonth": 1222,
+    "timeMonth": 1225,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2022-11-21": 54,
+      "2022-11-21": 43,
       "2022-11-20": 135,
       "2022-11-19": 85,
       "2022-11-18": 152,
@@ -108,7 +108,8 @@
       "2022-11-02": 204,
       "2022-11-01": 281,
       "2022-10-31": 365,
-      "2022-10-30": 53
+      "2022-10-30": 53,
+      "2022-10-29": 36
     }
   },
   {
@@ -125,7 +126,7 @@
     "time": 165,
     "timeDay": 133,
     "timeWeek": 95,
-    "timeMonth": 275,
+    "timeMonth": 281,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2022-03-02": 16
@@ -145,7 +146,7 @@
     "time": 2383,
     "timeDay": 3155,
     "timeWeek": 4476,
-    "timeMonth": 3965,
+    "timeMonth": 3977,
     "timeYear": 2383,
     "dailyMinutesDown": {
       "2022-08-22": 16,
@@ -168,7 +169,7 @@
     "time": 214,
     "timeDay": 131,
     "timeWeek": 167,
-    "timeMonth": 407,
+    "timeMonth": 419,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2022-04-23": 52,
@@ -189,7 +190,7 @@
     "time": 136,
     "timeDay": 178,
     "timeWeek": 148,
-    "timeMonth": 129,
+    "timeMonth": 132,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2022-05-03": 279,
