@@ -4,18 +4,19 @@
     "url": "$BOT_PING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 2390,
     "timeDay": 181,
-    "timeWeek": 1912,
+    "timeWeek": 1123,
     "timeMonth": 2927,
     "timeYear": 2390,
     "dailyMinutesDown": {
+      "2022-11-27": 0,
       "2022-11-25": 18,
       "2022-11-24": 17,
       "2022-11-22": 134,
@@ -67,8 +68,7 @@
       "2022-09-23": 46,
       "2022-09-22": 21,
       "2022-09-21": 25,
-      "2022-09-20": 140,
-      "2022-09-19": 6
+      "2022-09-20": 101
     }
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "99.34%",
     "time": 1679,
     "timeDay": 329,
     "timeWeek": 437,
     "timeMonth": 1280,
     "timeYear": 1679,
     "dailyMinutesDown": {
-      "2022-11-27": 23,
+      "2022-11-27": 15,
       "2022-11-22": 124,
       "2022-11-21": 43,
       "2022-11-20": 135,
@@ -110,7 +110,7 @@
       "2022-11-03": 136,
       "2022-11-02": 204,
       "2022-11-01": 281,
-      "2022-10-31": 98
+      "2022-10-31": 136
     }
   },
   {
