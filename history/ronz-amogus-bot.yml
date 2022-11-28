@@ -1,7 +1,7 @@
 url: $RONZAMOGUS_BOT_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-28T05:26:43.185Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2022-11-28T05:35:51.788Z
 startTime: Thu Feb 10 2022 09:14:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
