@@ -12,7 +12,7 @@
     "uptimeYear": "99.28%",
     "time": 2382,
     "timeDay": 12564,
-    "timeWeek": 1806,
+    "timeWeek": 1917,
     "timeMonth": 2688,
     "timeYear": 2382,
     "dailyMinutesDown": {
@@ -78,9 +78,9 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "95.12%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.39%",
     "time": 1677,
     "timeDay": 221,
@@ -88,7 +88,7 @@
     "timeMonth": 925,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2022-12-03": 32,
+      "2022-12-03": 25,
       "2022-11-30": 70,
       "2022-11-28": 36,
       "2022-11-27": 15,
@@ -112,7 +112,7 @@
       "2022-11-04": 98,
       "2022-11-03": 136,
       "2022-11-02": 204,
-      "2022-11-01": 131
+      "2022-11-01": 155
     }
   },
   {
