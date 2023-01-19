@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.39%",
     "time": 2422,
     "timeDay": 638,
     "timeWeek": 2521,
     "timeMonth": 3348,
     "timeYear": 2422,
     "dailyMinutesDown": {
-      "2023-01-18": 4,
       "2023-01-14": 31,
       "2023-01-12": 50,
       "2023-01-11": 44,
@@ -68,7 +67,7 @@
       "2022-10-13": 22,
       "2022-10-11": 19,
       "2022-10-10": 43,
-      "2022-10-08": 26
+      "2022-10-08": 88
     }
   },
   {
