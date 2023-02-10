@@ -4,9 +4,9 @@
     "url": "$BOT_PING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 5158,
     "timeYear": 2645,
     "dailyMinutesDown": {
+      "2023-02-10": 0,
       "2023-02-08": 32,
       "2023-02-03": 123,
       "2023-02-02": 84,
@@ -70,7 +71,7 @@
       "2022-10-21": 25,
       "2022-10-20": 54,
       "2022-10-19": 154,
-      "2022-10-18": 41
+      "2022-10-18": 24
     }
   },
   {
@@ -80,12 +81,12 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "95.49%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "99.49%",
     "time": 1732,
-    "timeDay": 258,
+    "timeDay": 268,
     "timeWeek": 619,
     "timeMonth": 2092,
     "timeYear": 1732,
