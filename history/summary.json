@@ -8,13 +8,13 @@
     "uptime": "90.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.55%",
-    "uptimeMonth": "31.23%",
+    "uptimeMonth": "31.45%",
     "uptimeYear": "89.40%",
     "time": 3057,
-    "timeDay": 487,
+    "timeDay": 678,
     "timeWeek": 7765,
     "timeMonth": 10913,
-    "timeYear": 3009,
+    "timeYear": 3012,
     "dailyMinutesDown": {
       "2023-04-07": 248,
       "2023-04-03": 1033,
@@ -119,17 +119,16 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.44%",
     "time": 1802,
-    "timeDay": 3373,
+    "timeDay": 4407,
     "timeWeek": 7751,
-    "timeMonth": 5118,
-    "timeYear": 1731,
+    "timeMonth": 5165,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2023-04-13": 14,
       "2023-04-07": 288,
       "2023-04-03": 135,
       "2023-04-02": 26,
@@ -182,7 +181,7 @@
       "2022-11-21": 43,
       "2022-11-20": 135,
       "2022-11-19": 85,
-      "2022-11-18": 102
+      "2022-11-18": 118
     }
   },
   {
@@ -199,7 +198,7 @@
     "time": 164,
     "timeDay": 164,
     "timeWeek": 131,
-    "timeMonth": 130,
+    "timeMonth": 133,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -217,8 +216,8 @@
     "time": 4267,
     "timeDay": 7836,
     "timeWeek": 7271,
-    "timeMonth": 7350,
-    "timeYear": 4635,
+    "timeMonth": 7328,
+    "timeYear": 4640,
     "dailyMinutesDown": {
       "2023-04-13": 16,
       "2023-04-12": 40,
@@ -284,7 +283,7 @@
     "time": 159,
     "timeDay": 188,
     "timeWeek": 146,
-    "timeMonth": 121,
+    "timeMonth": 123,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-05-03": 279,
