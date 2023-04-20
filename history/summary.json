@@ -4,18 +4,19 @@
     "url": "$BOT_PING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
-    "status": "up",
-    "uptime": "91.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.10%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.07%",
-    "uptimeYear": "89.40%",
+    "uptimeMonth": "52.96%",
+    "uptimeYear": "89.41%",
     "time": 2996,
-    "timeDay": 326,
+    "timeDay": 243,
     "timeWeek": 491,
     "timeMonth": 8418,
     "timeYear": 2985,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2023-04-07": 248,
       "2023-04-03": 1033,
       "2023-04-02": 1440,
@@ -109,7 +110,7 @@
       "2022-10-23": 122,
       "2022-10-22": 52,
       "2022-10-21": 25,
-      "2022-10-20": 54
+      "2022-10-20": 17
     }
   },
   {
@@ -119,17 +120,16 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.44%",
     "time": 1794,
-    "timeDay": 430,
-    "timeWeek": 562,
+    "timeDay": 429,
+    "timeWeek": 574,
     "timeMonth": 4587,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2023-04-20": 8,
       "2023-04-18": 58,
       "2023-04-16": 43,
       "2023-04-07": 288,
@@ -184,7 +184,7 @@
       "2022-11-21": 43,
       "2022-11-20": 135,
       "2022-11-19": 85,
-      "2022-11-18": 21
+      "2022-11-18": 41
     }
   },
   {
@@ -281,7 +281,7 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -290,7 +290,7 @@
     "timeDay": 118,
     "timeWeek": 176,
     "timeMonth": 139,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-05-03": 279,
       "2022-05-02": 138,
