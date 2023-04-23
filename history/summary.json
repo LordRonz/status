@@ -6,17 +6,16 @@
     "slug": "pog-bot",
     "status": "up",
     "uptime": "91.14%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "60.03%",
-    "uptimeYear": "89.41%",
-    "time": 2973,
-    "timeDay": 780,
-    "timeWeek": 561,
-    "timeMonth": 6941,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "61.04%",
+    "uptimeYear": "89.40%",
+    "time": 2970,
+    "timeDay": 691,
+    "timeWeek": 498,
+    "timeMonth": 6782,
     "timeYear": 2981,
     "dailyMinutesDown": {
-      "2023-04-22": 8,
       "2023-04-07": 248,
       "2023-04-03": 1033,
       "2023-04-02": 1440,
@@ -110,7 +109,7 @@
       "2022-10-23": 122,
       "2022-10-22": 52,
       "2022-10-21": 25,
-      "2022-10-20": 17
+      "2022-10-20": 54
     }
   },
   {
@@ -120,17 +119,16 @@
     "slug": "ronz-amogus-bot",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.44%",
-    "time": 1814,
-    "timeDay": 381,
-    "timeWeek": 2113,
-    "timeMonth": 4503,
+    "time": 1811,
+    "timeDay": 359,
+    "timeWeek": 2194,
+    "timeMonth": 4501,
     "timeYear": 1706,
     "dailyMinutesDown": {
-      "2023-04-22": 8,
       "2023-04-21": 16,
       "2023-04-18": 58,
       "2023-04-16": 43,
@@ -185,7 +183,8 @@
       "2022-11-22": 124,
       "2022-11-21": 43,
       "2022-11-20": 135,
-      "2022-11-19": 85
+      "2022-11-19": 85,
+      "2022-11-18": 21
     }
   },
   {
@@ -200,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 50,
-    "timeWeek": 113,
-    "timeMonth": 132,
+    "timeDay": 53,
+    "timeWeek": 101,
+    "timeMonth": 130,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -213,15 +212,15 @@
     "slug": "link-shortener",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "98.50%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.77%",
     "time": 4899,
-    "timeDay": 8739,
-    "timeWeek": 8960,
-    "timeMonth": 8321,
-    "timeYear": 5341,
+    "timeDay": 6527,
+    "timeWeek": 8849,
+    "timeMonth": 8327,
+    "timeYear": 5347,
     "dailyMinutesDown": {
       "2023-04-22": 30,
       "2023-04-21": 75,
@@ -270,13 +269,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 45,
-    "timeWeek": 165,
-    "timeMonth": 143,
+    "timeDay": 80,
+    "timeWeek": 95,
+    "timeMonth": 144,
     "timeYear": 170,
-    "dailyMinutesDown": {
-      "2022-04-23": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ronz Amogus Bot Documentation",
@@ -290,8 +287,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 166,
-    "timeDay": 92,
-    "timeWeek": 142,
+    "timeDay": 43,
+    "timeWeek": 80,
     "timeMonth": 136,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -304,8 +301,7 @@
       "2022-04-27": 1037,
       "2022-04-26": 910,
       "2022-04-25": 481,
-      "2022-04-24": 49,
-      "2022-04-23": 67
+      "2022-04-24": 49
     }
   }
 ]
