@@ -16,7 +16,7 @@
     "timeMonth": 1978,
     "timeYear": 2955,
     "dailyMinutesDown": {
-      "2023-06-27": 1149,
+      "2023-06-27": 1168,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -170,7 +170,7 @@
     "timeMonth": 2475,
     "timeYear": 1698,
     "dailyMinutesDown": {
-      "2023-06-27": 1149,
+      "2023-06-27": 1169,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -300,17 +300,17 @@
     "url": "https://lr-link.vercel.app",
     "icon": "https://lr-link.vercel.app/favicon.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "70.60%",
+    "uptimeDay": "71.60%",
     "uptimeWeek": "86.66%",
-    "uptimeMonth": "93.74%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
-    "time": 7669,
-    "timeDay": 9330,
-    "timeWeek": 9375,
-    "timeMonth": 9344,
-    "timeYear": 8088,
+    "time": 7674,
+    "timeDay": 9335,
+    "timeWeek": 9382,
+    "timeMonth": 9346,
+    "timeYear": 8090,
     "dailyMinutesDown": {
       "2023-06-27": 356,
       "2023-06-26": 251,
@@ -328,7 +328,7 @@
       "2023-06-14": 169,
       "2023-06-13": 387,
       "2023-06-12": 142,
-      "2023-06-11": 34
+      "2023-06-11": 19
     }
   },
   {
