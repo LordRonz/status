@@ -16,7 +16,7 @@
     "timeMonth": 1978,
     "timeYear": 2955,
     "dailyMinutesDown": {
-      "2023-06-27": 570,
+      "2023-06-27": 595,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -159,7 +159,7 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "down",
-    "uptime": "91.94%",
+    "uptime": "91.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -170,7 +170,7 @@
     "timeMonth": 2475,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-06-27": 570,
+      "2023-06-27": 595,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -300,17 +300,17 @@
     "url": "https://lr-link.vercel.app",
     "icon": "https://lr-link.vercel.app/favicon.ico",
     "slug": "link-shortener",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "73.14%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "73.12%",
     "uptimeWeek": "87.24%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "99.47%",
-    "time": 7576,
-    "timeDay": 9281,
+    "uptimeMonth": "93.80%",
+    "uptimeYear": "99.48%",
+    "time": 7581,
+    "timeDay": 9304,
     "timeWeek": 9362,
-    "timeMonth": 9343,
-    "timeYear": 8072,
+    "timeMonth": 9344,
+    "timeYear": 8073,
     "dailyMinutesDown": {
       "2023-06-27": 254,
       "2023-06-26": 251,
@@ -328,7 +328,7 @@
       "2023-06-14": 169,
       "2023-06-13": 387,
       "2023-06-12": 142,
-      "2023-06-11": 181
+      "2023-06-11": 110
     }
   },
   {
