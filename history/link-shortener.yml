@@ -1,7 +1,7 @@
 url: https://lr-link.vercel.app
-status: up
-code: 200
-responseTime: 9543
-lastUpdated: 2023-07-25T23:48:19.191Z
+status: down
+code: 504
+responseTime: 11063
+lastUpdated: 2023-07-26T01:04:57.950Z
 startTime: Thu Feb 10 2022 06:39:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
