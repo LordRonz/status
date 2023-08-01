@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
     "status": "down",
-    "uptime": "79.20%",
+    "uptime": "79.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 254,
     "timeYear": 2947,
     "dailyMinutesDown": {
-      "2023-08-01": 57,
+      "2023-08-01": 59,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -205,7 +205,7 @@
     "timeMonth": 298,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2023-08-01": 57,
+      "2023-08-01": 59,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -370,18 +370,19 @@
     "url": "https://lr-link.vercel.app",
     "icon": "https://lr-link.vercel.app/favicon.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "82.85%",
+    "uptimeDay": "82.83%",
     "uptimeWeek": "74.72%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "99.45%",
     "time": 8600,
-    "timeDay": 9668,
-    "timeWeek": 9750,
-    "timeMonth": 9701,
-    "timeYear": 8998,
+    "timeDay": 9691,
+    "timeWeek": 9752,
+    "timeMonth": 9702,
+    "timeYear": 8999,
     "dailyMinutesDown": {
+      "2023-08-01": 0,
       "2023-07-31": 247,
       "2023-07-30": 110,
       "2023-07-29": 320,
@@ -389,7 +390,7 @@
       "2023-07-27": 441,
       "2023-07-26": 661,
       "2023-07-25": 347,
-      "2023-07-24": 378
+      "2023-07-24": 353
     }
   },
   {
