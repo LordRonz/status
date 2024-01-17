@@ -7,7 +7,7 @@
     "status": "down",
     "uptime": "61.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.58%",
+    "uptimeWeek": "82.50%",
     "uptimeMonth": "31.45%",
     "uptimeYear": "26.02%",
     "time": 3467,
@@ -16,7 +16,7 @@
     "timeMonth": 541,
     "timeYear": 3716,
     "dailyMinutesDown": {
-      "2024-01-17": 1305,
+      "2024-01-17": 1313,
       "2024-01-16": 451,
       "2024-01-06": 778,
       "2024-01-05": 1440,
@@ -325,7 +325,7 @@
     "timeMonth": 200,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2024-01-17": 1305,
+      "2024-01-17": 1313,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -621,19 +621,19 @@
     "url": "https://dtk-class.vercel.app",
     "icon": "https://dtk-class.vercel.app/favicon.ico",
     "slug": "dtk-class-helper",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 600,
-    "timeWeek": 219,
-    "timeMonth": 129,
+    "timeDay": 457,
+    "timeWeek": 214,
+    "timeMonth": 130,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-01-17": 1
+      "2024-01-17": 8
     }
   },
   {
@@ -688,19 +688,19 @@
     "url": "https://lr-anon.vercel.app",
     "icon": "https://lr-anon.vercel.app/favicon.ico",
     "slug": "pesan-awanama",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 78,
-    "timeWeek": 73,
-    "timeMonth": 69,
+    "timeDay": 82,
+    "timeWeek": 75,
+    "timeMonth": 70,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -708,19 +708,19 @@
     "url": "https://ronz-amogus.vercel.app",
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 602,
-    "timeWeek": 206,
+    "timeDay": 437,
+    "timeWeek": 195,
     "timeMonth": 111,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   }
 ]
