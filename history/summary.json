@@ -183,7 +183,7 @@
     "timeMonth": 391,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-09-03": 869,
+      "2024-09-03": 881,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -573,17 +573,17 @@
     "url": "https://lr-link.vercel.app",
     "icon": "https://lr-link.vercel.app/favicon.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "93.84%",
+    "uptimeDay": "93.83%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.53%",
     "time": 7197,
-    "timeDay": 8426,
-    "timeWeek": 8091,
-    "timeMonth": 7456,
-    "timeYear": 6933,
+    "timeDay": 8662,
+    "timeWeek": 8233,
+    "timeMonth": 7513,
+    "timeYear": 6937,
     "dailyMinutesDown": {
       "2024-09-03": 89,
       "2024-09-02": 18,
@@ -631,7 +631,7 @@
       "2023-09-20": 26,
       "2023-09-18": 16,
       "2023-09-17": 17,
-      "2023-09-15": 45
+      "2023-09-15": 29
     }
   },
   {
