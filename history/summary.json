@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
     "status": "down",
-    "uptime": "66.81%",
+    "uptime": "66.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-02-03": 61,
+      "2025-02-04": 60,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -88,8 +89,7 @@
       "2024-11-26": 1334,
       "2024-03-29": 27,
       "2024-02-07": 1364,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -98,7 +98,7 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "down",
-    "uptime": "42.42%",
+    "uptime": "42.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-02-03": 61,
+      "2025-02-04": 60,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -472,8 +473,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -488,9 +488,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 54,
-    "timeWeek": 144,
-    "timeMonth": 135,
+    "timeDay": 102,
+    "timeWeek": 105,
+    "timeMonth": 136,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -505,11 +505,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 6655,
-    "timeDay": 169,
-    "timeWeek": 660,
-    "timeMonth": 949,
-    "timeYear": 6754,
+    "time": 6642,
+    "timeDay": 876,
+    "timeWeek": 739,
+    "timeMonth": 677,
+    "timeYear": 6747,
     "dailyMinutesDown": {
       "2024-12-12": 24,
       "2024-12-09": 18,
@@ -570,9 +570,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 65,
-    "timeWeek": 84,
-    "timeMonth": 127,
+    "timeDay": 150,
+    "timeWeek": 98,
+    "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -588,9 +588,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 75,
-    "timeWeek": 111,
-    "timeMonth": 105,
+    "timeDay": 66,
+    "timeWeek": 104,
+    "timeMonth": 103,
     "timeYear": 111,
     "dailyMinutesDown": {}
   }
