@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pog-bot",
     "status": "down",
-    "uptime": "59.53%",
+    "uptime": "59.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.66%",
-    "time": 802,
+    "uptimeYear": "44.39%",
+    "time": 801,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 832,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-06-16": 75,
+      "2025-06-17": 73,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -227,7 +228,7 @@
     "icon": "https://ronz-amogus.vercel.app/favicon.ico",
     "slug": "ronz-amogus-bot",
     "status": "down",
-    "uptime": "37.80%",
+    "uptime": "37.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -236,9 +237,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 369,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-06-16": 75,
+      "2025-06-17": 73,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -601,8 +603,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -617,9 +618,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 135,
-    "timeWeek": 155,
-    "timeMonth": 181,
+    "timeDay": 183,
+    "timeWeek": 166,
+    "timeMonth": 180,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -634,11 +635,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 5691,
-    "timeDay": 830,
-    "timeWeek": 748,
-    "timeMonth": 823,
-    "timeYear": 5519,
+    "time": 5690,
+    "timeDay": 905,
+    "timeWeek": 755,
+    "timeMonth": 841,
+    "timeYear": 5508,
     "dailyMinutesDown": {
       "2025-04-03": 41,
       "2024-12-12": 24,
@@ -677,8 +678,7 @@
       "2024-07-08": 20,
       "2024-06-26": 42,
       "2024-06-21": 19,
-      "2024-06-18": 26,
-      "2024-06-17": 20
+      "2024-06-18": 26
     }
   },
   {
@@ -693,9 +693,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 105,
-    "timeWeek": 160,
-    "timeMonth": 152,
+    "timeDay": 67,
+    "timeWeek": 157,
+    "timeMonth": 145,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -711,9 +711,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 112,
-    "timeWeek": 151,
-    "timeMonth": 149,
+    "timeDay": 83,
+    "timeWeek": 143,
+    "timeMonth": 150,
     "timeYear": 115,
     "dailyMinutesDown": {}
   }
